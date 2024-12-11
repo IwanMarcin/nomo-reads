@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "NoMo Reads",
+    "version": "1.0",
+    "description": "You know what it is :)",
+    "permissions": ["tabs"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "icon48.png"
+      }
+  }
+
+ 
+
+  
+
+  
